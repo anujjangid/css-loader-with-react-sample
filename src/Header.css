@@ -1,0 +1,17 @@
+:local(.firstClass) {
+  background: yellow;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+:local(.secondClass) {
+  background: navajowhite;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+:local(.thirdClass) {
+  background: greenyellow;
+  padding: 20px;
+  border-radius: 20px;
+}
